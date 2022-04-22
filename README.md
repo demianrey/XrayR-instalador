@@ -9,10 +9,10 @@ Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-projec
 
 [教程](https://crackair.gitbook.io/xrayr-project/)
 
-# 一键安装
+# Instalación rápida
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/demianrey/XrayR-instalador/DR/install.sh)
 ```
 # Docker 安装
 
